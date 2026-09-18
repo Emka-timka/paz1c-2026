@@ -5,6 +5,7 @@
 | Jablká         |   3   |
 | Mlieko         |   1   |
 | Vajcia         |  12   |
+| Toaleťáky | 400 |
 
 Autor: Ema Timková
 
