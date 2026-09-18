@@ -9,8 +9,3 @@ Autor: Ema Timková
 
 Autor: Eduard Puci
 
-este daco
-
-mam sa dobre
-
-daco daco este 
